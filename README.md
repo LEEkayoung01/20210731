@@ -37,6 +37,7 @@ def course_selection(course_dict):
 	return time_table
 
 
+https://wikidocs.net/24#lambda
 
 
  
